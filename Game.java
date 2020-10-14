@@ -11,6 +11,6 @@ public class Game {
 	} else {
    		System.out.println("No, the answer is " + continent);
         }
-
+        System.out.println("Hej");
     }
 }
